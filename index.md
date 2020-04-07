@@ -1,3 +1,6 @@
+
+![litten-qrcode](https://cloud.githubusercontent.com/assets/2024949/6349328/51a067fe-bc64-11e4-881c-f68050c50c28.png)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/BuYanLi/wuyan.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
